@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width-device-width , initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <style>
+        table.RidersTable {
+            width: 100%;
+            background-color: #ffffff;
+            border-collapse: collapse;
+            border-width: 2px;
+            border-color: #7700ffd2;
+            border-style: solid;
+            color: #000000;
+        }
+
+        table.RidersTable td,
+        table.RidersTable th {
+            border-width: 2px;
+            border-color: #7700ffd2;
+            border-style: solid;
+            padding: 3px;
+        }
+
+        table.RidersTable thead {
+            background-color: #7700ffd2;
+        }
+    </style>
+
+    <style>
+        table.otherbranches {
+            width: 100%;
+            background-color: #ffffff;
+            border-collapse: collapse;
+            border-width: 2px;
+            border-color: #ffc400;
+            border-style: solid;
+            color: #000000;
+        }
+
+        table.otherbranches td,
+        table.otherbranches th {
+            border-width: 2px;
+            border-color: #ffc400;
+            border-style: solid;
+            padding: 3px;
+        }
+
+        table.otherbranches thead {
+            background-color: #ffc400;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <img src="https://i.ibb.co/pLDnp0J/Logolotusbloom.png" alt="Logolotusbloom" border="0" align="center">
+
+
+    <p align="center">
+        -------------------------------------------------------<br>
+        💮 LotusBloom Season 💮<br>
+        💮 Saison de Printemps 2020 💮 <br>
+        -------------------------------------------------------<br>
+    </p>
+
+    Note avant de commencer:
+
+    Les photos ne sont pas toutes définitives en général c'est des captures d'écran faites suites aux streams, quand le
+    blog post officiel sort je changerais les photos.
+
+    ---------------------
+
+    ## Changements de fonctionalités des saison :
+
+    - La structure garde essentiellement la meme forme: 3 dragons légendaires, 2 chevaucheurs et la branche de boost de
+    base donnent des clés pour 2 dragons Mythiques
+
+    - La branche boost de missions zepplin et le festif restent en place et ne donnent pas de clés
+
+    - Toutes les branches coutent 4,500 sigils en plus main contiennent 14 prix supplémentaires
+
+    - Chaque branche légendaire (dragons légendaires, chevaucheurs et boost de base) donnent maintenant chacune 6 clés
+    maintenant (réparties sur l'entièreté de la branche / prévision: 2 clés par page)
+
+    - Chaque dragon Mythique coute maintenant 18 clés pour etre débloqué.
+
+    - Il ya maintant 2 branches a 50% entièrement durant les 2 premières semaines, les 2 branches seront a 50% durant le
+    meme lapse de temps et en prendre une et non l'autre ne bloquera pas l'une ou l'autre nii le 50%.
+
+    - Il y a maintenant (avec ce nouveau systeme) la possibilité d'introduire des branches partielles qui donnent moins
+    de clés et qui coutent moins cher.
+
+    ------------------------------------------------------
+
+
+    ## Structure de la saison :
+
+    <img src="..." alt="PlaceholderSrpingStruct.jpg" border="0">
+
+    TOUT LES DRAGONS DE CETTE SAISON ÉVOLUENT JUSQU'AU TIER ABBYSAL
+    *Les Mythiques auront une pierre vers le tier suivant !*
+
+    -----------
+    <u>Point Histoire:</u>
+
+    Bientot j'ai besoin de temps ...
+
+    --------------
+
+    *Vague 1 - Semaine 1*
+
+    🐉 **Asura** - Chasseur Légendaire (35.5k) 6x🗝
+    🐉 **Nucifera**- Guerrier Légendaire (35.5k) 6x🗝
+    🗡 **Suresh**- Chevaucheur Offensif (34.5k) 6x🗝
+    🛡 **Branche Boost de Base** (34.5k) 6x🗝
+    🐉 **Danav** - Guerrier Mythique (0)🔒
+    🐉 **Naja** - Invoqueur Mythique (0)🔒
+    :balloon: **Branche boost missions zepplin** (3.15k -> 100% / 6.3k -> 125%)
+
+    *Vague 2 - Semaine 6*
+
+    🐉 **?** - Chasseur Légendaire (35.5k) 6x🗝
+    🛡 **?** - Chevaucheuse Défensive (34.5k) 6x🗝
+
+    *Vague 3 - Semaine 10*
+
+    🐉 **?** - Dragon Légendaire (30k) [Festif]
+
+    *Branches Spéciales*
+
+    **Aucune pour l'instant**
+
+    (🔓= 18 x 🗝)
+
+    --------------
+
+    Voici un rappel rapide sur la structure:
+
+    - Les dragons légendaires (Sorcier, Chasseur qui sont des branches légendaires) coûtent 35.5k sigils. Les
+    chevaucheurs et la branche boost de base coûtent 34.5k sigils. Le festif coutent 34.5k mais ne contient pas de clé.
+
+    - Chaque branche légendaire (Sorcier légendaire, Chasseur légendaire, branche boost de base et les 2 chevaucheurs)
+    contiennent 6 clés de saison chacune.
+
+    - Chaque mythique coutent 18 clés à débloquer. Une fois ce dernier débloqué sa branche est constituée de l'oeuf du
+    dragon, ses pierres d'évolution et ses runes. La branche des mythiques coutent 0 sigils chacune.
+
+    - Le boost missions zepplin et le festif, ne donnent pas de clés.
+
+    - La branche boost de base sera disponible dés la 1 ère semaine de la saison mais sera a 50% (entièrement) pour les
+    2 premières semaines.
+
+    - Le chasseur légendaire (Asura) est à moitié prix durant les 2 premières semaines de la saison.
+
+    - Le sorcier légendaire, le chasseur légendaire, le 1er chevaucheur ansi que les 2 mythiques (+ boost missions
+    zepplin) seront visibles dés la 1 ère semaine de la saison.
+
+    - Le chasseur légendaire et la 2eme chevaucheuse seront disponible à la semaine 6.
+
+    - Le festif sera disponible à la semaine 10.
+
+    -----------------
+
+    <font color="#d99518" size="5%"><ins>**Asura - Emberheart Drake**</ins></font>
+
+    <img src="https://i.ibb.co/xzP0vJM/asura.png" alt="asura" border="0" height=60% width=70%>
+
+    Chasseur Légendaire
+    Élément: Feu 🔥
+
+    Sorts:
+
+    ⚪ **On the Hunt (À la chasse):** Alternance entre Traquer et Bondir<br>
+    <span>🔵 **Stalk (Traquer):** Bleu - 1 Rage<br>
+        Le dragon est camouflé pendant 2s et récupere 50% de ses boules de feu. À la fin de la durée du camouflge, le
+        dragon endomage les tours environnentes en leur infligent 10% de sa vie en dégats. Le sort n'a pas de cooldown.<br>
+        ⚪ **Pounce (Bondir):** Blanc - 0 Rage<br>
+        Les tours dans un certain rayon autour du dragons prennent 100% de degats en plus du dragon. Le sort a 4s de cooldown.<br>
+    </span>
+
+    🔴 **Hunter's Mark (Marque du Chasseur):** Rouge - 1 Rage<br>
+    Lance une marque sur une cible choisie et redonne 40% de la vie du dragon et 2 de rage.<br>
+
+    ⚪ **Entrap (Emprisoné):** Blanc - 1 rage<br>
+    Les tours touchées par ce sort sont désactivées pendant 12s.<br>
+
+    🔶 **Fire Flak Resist:** Passif<br>
+    Réduit les dégats subits par les flaks de feu de 70% (sur le dragon).<br>
+
+
+    Portraits: Emberheart Sorceress (Sorcière coeur de Braise)
+
+    <img src="https://i.ibb.co/ZLSBPHq/ember-sorceress.png" alt="EmberheartSorceressPortrait" border="0" height=60%
+        width=60%>
+
+    Runes: Augmentent [placehorder] + Attaque du chasseur (effet secondaire des runes légendaire et mythique)
+
+    -----------------
+
+    <font color="#f58ee4" size="5%"><ins>**Nocifera - Lotus Wyrm**</ins></font>
+
+    <img src="https://i.ibb.co/PTFw90v/nocifera.png" alt="nucifera" border="0" height=60% width=70%>
+
+    Sorcier Légendaire
+    Élément: Terre ⛰
+
+    Sorts:
+
+    ⚪ **Magic Barrier (Barrière Magique):** Blanc - 0 rage<br>
+    Le dragon bloque tout les dégats pendant 3.5s. Bloque aussi le vol de rage des tours de mage. Le sort a 5s de
+    cooldown.
+
+    🔴 **The Two Pathes (Les Deux Chemins):** Alternance entre Désordre et Tranquilité<br>
+    <span>
+        <p>
+            🔴 **Disorder (Désordre):** Rouge - 1 Rage<br>
+            Les tours dans la zone subissent 6% de la vie du dragon en dégats et prennent 33% de dégats en plus.<br>
+            🔴 **Tranquility (Tranquilité):** Rouge - 1 Rage<br>
+            Les tours dans la zone subissent 6% de la vie du dragon en dégats et infligent 33% de dégats en moins au dragon.<br>
+        </p>
+    </span><br>
+
+    <i>Note: Les 2 sorts ne sont pas cumulables, si l'un est deja actif sur les tours et que le second est activé c'est
+        les bonus du secont qui prendront effet. Il est toutefois possible d'alterner entre les 2 sorts.</i>
+
+    ⚪ **Karmic Bolt (Boulet Karmique):** Blanc - 1 Rage<br>
+    Le dragon peut lancer un boulet de petit rayon qui inflide 2500% de la vie du dragon en dégats et restore 12% de la
+    vie du dragon à l'activation. Le sort a 4s de cooldown.<br>
+
+    🔶 **PeaceBringer (Porteur de la paix):** Passif<br>
+    Invoque un petit guerrier ayant 5% de la vie du dragon en points de vie et 2% de la vie du dragon en dégats pour combattre a ses cotés et augmente de
+    75% la génération de rage du dragon. (Guerrier invincible - n'est pas attquer par les tours mais peux leur infliger
+    des dégats)<br>
+
+    Portraits: Traveling Monk (Moine Voyageur)
+
+    <img src="https://i.ibb.co/CKKv9gr/travellingmonk.png" alt="travellingmonk" border="0" height=60% width=60%>
+
+    Runes: Réduisent [placeholder] et augmente la vie du sorcier (effet secondaire des runes légendaire et mythique)
+
+    ----------------
+
+    <font color="#f0cc1a" size="5%"><ins>**Suresh - [placeholder]**</ins></font>
+
+    <img src="https://i.ibb.co/d7CLLGS/suresh.png" alt="suresh" border="0" width=70% height=60%>
+
+    Type: Offensif
+    Élement des Fragments: Vent, Feu et Glace
+    Capacités: (Maximum - pas forcément tous atteignable)
+
+    <table class="RidersTable">
+        <thead>
+            <tr>
+                <th>Capacité</th>
+                <th>Max %</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Dégats du dragon</td>
+                <td>+ x%</td>
+            </tr>
+            <tr>
+                <td>Vie du dragon</td>
+                <td>+ x%</td>
+            </tr>
+            <tr>
+                <td>Cout d'entrainement</td>
+                <td>- x%</td>
+            </tr>
+            <tr>
+                <td>Gain d'XP</td>
+                <td>+ x%</td>
+            </tr>
+            <tr>
+                <td>Attaque du chasseur</td>
+                <td>+ x%</td>
+            </tr>
+            <tr>
+                <td>Attaque du guerrier</td>
+                <td>+ x%</td>
+            </tr>
+            <tr>
+                <td>Attaque du sorcier</td>
+                <td>+ x%</td>
+            </tr>
+            <tr>
+                <td>Attaque de l'invoqueur</td>
+                <td>+ x%</td>
+            </tr>
+            <tr>
+                <td>Vie de l'invoqueur</td>
+                <td>+ x%</td>
+            </tr>
+            <tr>
+                <td>Génération de rage</td>
+                <td>+ x%</td>
+            </tr>
+        </tbody>
+    </table>
+
+    Portraits: Suresh
+
+    <img src="https://i.ibb.co/d7CLLGS/suresh.png" alt="SureshRiderPortrait" border="0" height=60% width=60%>
+
+    ---------------------
+
+    <font color="#FF6D00" size="5%"><ins>**Danav - The Grand Destroyer**</ins></font>
+
+    <img src="https://i.ibb.co/VSP16kW/danav.png" alt="danav" border="0" height=60% width=70%>
+
+    Guerrier Mythique
+    Élément: Vent 🌬
+
+    Sorts:
+
+    🔴 **Cower in Fear (Tapir de Peur):** Rouge - 1 Rage<br>
+    Endomage les tours environnentes de 6% de la vie du dragon et les gelent de peur pendant 3.5s. Le sort n'a pas de cooldown.<br>
+
+    ⚪ **Destroyer's Warth (Colère du Destructeur):** Blanc - 0.33 Rage/s<br>
+    Activer pour augmenter de 250% les dégats du dragon au prix de 0.33 Rage/s.<br>
+
+    🔵 **Delight in Destruction (Plaisir de Destruction):** Blanc - 1 Rage<br>
+    Le dragon regagne instantannément 3 rage et pendant 4s il regagne 12% de sa vie par tour detruite.<br>
+
+    ⚪ **Blade Storm (Tempête de Lames):** Blanc - 2 Rage<br>
+    Le dragon évite tout les projectiles pendant 3s et inflige 6% de dégats aux tours aux alentours toute les secondes. Le sort a 4s de cooldown.<br>
+
+    Runes: Réduisent [placeholder] et augmente l'attaque du guerrier (effet des runes légendaire et mythique)
+
+    ----------------------------
+
+    <font color="#FFD740" size="5%"><ins>**Naja - The Grand Protector**</ins></font>
+
+    <img src="https://i.ibb.co/WHMq52T/naja.png" alt="naja" border="0" height=60% width=70%>
+
+    Invoqueur Mythique
+    Élément: Terre ⛰
+
+    Sorts:
+
+    🔶 **Smite (Chatiment):** Passif - Invoque (sort spécial)<br>
+    La 4ième boule de feu du dragon inflige 1500% les dégats d'une boule normale dans une petite zone.<br>
+
+    ⚪ **Mark of Tribute (Marque d'Hommage):** Blanc - 0 Rage<br>
+    Marque une tour qui a sa destruction redonne 20% de la vie du dragon et 1 rage. Le sort a 5s de cooldown.<br>
+
+    ⚪**Protector's Resolve (Résolution du Protecteur):** Blanc - 0.33 Rage/s<br>
+    Activer pour bloquer tout les dégats qui arrivent au dragon mais consomme 0.33 rage/s.<br>
+
+    ⚪ **Turn the Tide (Inverser la Tendance):** Blanc - 2 Rage
+    Le dragon est camouflé pendant 2s. Au moment de sortir du camouflage il inflige 8% de sa vie aux tours et gagne 50%
+    de dégats en plus. Le sort a 2s de cooldown.<br>
+
+    Runes: Réduisent [placeholder] et augmente [placeholder] (effet des runes légendaire et mythique)
+
+    ---------------
+    <!--
+    <font color="#8D6E63" size="5%"><ins>**??? - ???**</ins></font>
+
+    <img src="..." alt="HunterWave2" border="0" width=70% height=50%>
+
+    Chasseur Légendaire<br>
+    Élément: ...
+
+    Sorts:
+
+    ....
+
+    Portrait: ????
+
+    <img src="..." alt="HunterWave2Portrait" border="0" height=60% width=60%>
+
+    Runes: Réduise [placeholder] et augmente [placeholder] (effet des runes légendaire et mythique)
+
+    ----------
+
+    <font color="#F1C40F" size="5%"><ins>**... - ...**</ins></font>
+
+    <img src="..." alt="RiderWave2" border="0" height=60% width=70%>
+
+    Type: Défensif
+    Élement des Fragments: Glace, Sombre et Terre
+    Capacités: (Maximum - pas forcément atteignable)
+
+    <table class="RidersTable">
+        <thead>
+            <tr>
+                <th>Capacité</th>
+                <th>Max %</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td></td>
+                <td></td>
+            </tr>
+            
+<tr>
+<td>Attaque des tours</td>
+<td>+ x%</td>
+</tr>
+<tr>
+<td>Vie es tours</td>
+<td>+ x%</td>
+</tr>
+<tr>
+<td>Production de bois</td>
+<td>+ x%</td>
+</tr>
+<tr>
+<td>Production de nourriture</td>
+<td>+ x%</td>
+</tr>
+<tr>
+<td>Capacité de bois</td>
+<td>+ 12%</td>
+</tr>
+<tr>
+<td>Vie de tour de mage rouge</td>
+<td>+ 10%</td>
+</tr>
+<tr>
+<td>Vie de tour de mage bleu</td>
+<td>+ 10%</td>
+</tr>
+
+        </tbody>
+    </table>
+
+    (NOTE: Ce chevaucheur peut aller n'importe où, il n'est lié à aucune classe)
+
+    Portraits: Mackenzie
+
+    <img src="..." alt="Rider2Portrait" border="0" height=60% width=60%>
+
+    -------------
+
+    <font color="#CFD8DC" size="5%"><ins>**??? - ???**</ins></font>
+
+    <img src="..." alt="FestivePic" border="0" height=60% width=70%>
+
+    ... Légendaire (Festif)
+    Élément: ...
+
+    Sorts:
+
+    ...
+
+    Portraits: (Pas de portraits avec les festifs)
+
+    Runes: ...
+
+    ------------
+-->
+
+</body>
