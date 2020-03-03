@@ -51,8 +51,7 @@ background-color: #ffc400;
 
 <body>
 
-<img src="https://i.ibb.co/pLDnp0J/Logolotusbloom.png" alt="Logolotusbloom" border="0" align="center">
-
+<img src="https://i.ibb.co/R4nJ0nQ/Logolotusbloom-removebg-preview.png" alt="Logolotusbloom" border="0" align="center">
 
 <p align="center">
 -------------------------------------------------------<br>
@@ -93,10 +92,9 @@ de clés et qui coutent moins cher.
 
 ## Structure de la saison :
 
-<img src="..." alt="PlaceholderSrpingStruct.jpg" border="0">
+<!--<img src="..." alt="PlaceholderSrpingStruct.jpg" border="0">-->
 
 TOUT LES DRAGONS DE CETTE SAISON ÉVOLUENT JUSQU'AU TIER ABBYSAL
-*Les Mythiques auront une pierre vers le tier suivant !*
 
 -----------
 <u>Point Histoire:</u>
@@ -169,12 +167,11 @@ Chasseur Légendaire<br>
 Sorts:
 
 ⚪ **On the Hunt (À la chasse):** Alternance entre Traquer et Bondir<br>
-<span>🔵 **Stalk (Traquer):** Bleu - 1 Rage<br>
+🔵 **Stalk (Traquer):** Bleu - 1 Rage<br>
 Le dragon est camouflé pendant 2s et récupere 50% de ses boules de feu. À la fin de la durée du camouflge, le
 dragon endomage les tours environnentes en leur infligent 10% de sa vie en dégats. Le sort n'a pas de cooldown.<br>
 ⚪ **Pounce (Bondir):** Blanc - 0 Rage<br>
 Les tours dans un certain rayon autour du dragons prennent 100% de degats en plus du dragon. Le sort a 4s de cooldown.<br>
-</span>
 
 🔴 **Hunter's Mark (Marque du Chasseur):** Rouge - 1 Rage<br>
 Lance une marque sur une cible choisie et redonne 40% de la vie du dragon et 2 de rage.<br>
@@ -188,10 +185,10 @@ Réduit les dégats subits par les flaks de feu de 70% (sur le dragon).<br>
 
 Portraits: Emberheart Sorceress (Sorcière coeur de Braise)
 
-<img src="https://i.ibb.co/ZLSBPHq/ember-sorceress.png" alt="EmberheartSorceressPortrait" border="0" height=60%
+<img src="https://ibb.co/YfQVNRZ"><img src="https://i.ibb.co/kqBPGH1/image.png" alt="EmberheartSorceressPortrait" border="0" height=60%
 width=60%>
 
-Runes: Augmentent [placehorder] + Attaque du chasseur (effet secondaire des runes légendaire et mythique)
+Runes: Augmentent la vie redonné par Hunter's Mark + Attaque du chasseur (effet secondaire des runes légendaire et mythique)
 
 -----------------
 
@@ -208,14 +205,11 @@ Sorts:
 Le dragon bloque tout les dégats pendant 3.5s. Bloque aussi le vol de rage des tours de mage. Le sort a 5s de ooldown.
 
 🔴 **The Two Pathes (Les Deux Chemins):** Alternance entre Désordre et Tranquilité<br>
-<span>
-<p>
+
 🔴 **Disorder (Désordre):** Rouge - 1 Rage<br>
 Les tours dans la zone subissent 6% de la vie du dragon en dégats et prennent 33% de dégats en plus.<br>
 🔴 **Tranquility (Tranquilité):** Rouge - 1 Rage<br>
 Les tours dans la zone subissent 6% de la vie du dragon en dégats et infligent 33% de dégats en moins au dragon.<br>
-</p>
-</span><br>
 
 <i>Note: Les 2 sorts ne sont pas cumulables, si l'un est deja actif sur les tours et que le second est activé c'est les bonus du secont qui prendront effet. Il est toutefois possible d'alterner entre les 2 sorts.</i>
 
@@ -227,13 +221,13 @@ Invoque un petit guerrier ayant 5% de la vie du dragon en points de vie et 2% de
 
 Portraits: Traveling Monk (Moine Voyageur)
 
-<img src="https://i.ibb.co/CKKv9gr/travellingmonk.png" alt="travellingmonk" border="0" height=60% width=60%>
+<img src="https://i.ibb.co/2swyD0g/image.png" alt="travellingmonk" border="0" height=60% width=60%>
 
-Runes: Réduisent [placeholder] et augmente la vie du sorcier (effet secondaire des runes légendaire et mythique)
+Runes: Réduisent le cooldown de Karmic Bolt et augmente la vie du sorcier (effet secondaire des runes légendaire et mythique)
 
 ----------------
 
-<font color="#f0cc1a" size="5%"><ins>**Suresh - [placeholder]**</ins></font>
+<font color="#f0cc1a" size="5%"><ins>**Suresh - Palace Guard**</ins></font>
 
 <img src="https://i.ibb.co/d7CLLGS/suresh.png" alt="suresh" border="0" width=70% height=60%>
 
@@ -251,43 +245,39 @@ Capacités: (Maximum - pas forcément tous atteignable)
 <tbody>
 <tr>
 <td>Dégats du dragon</td>
-<td>+ x%</td>
+<td>+ 3%</td>
 </tr>
 <tr>
 <td>Vie du dragon</td>
-<td>+ x%</td>
-</tr>
-<tr>
-<td>Cout d'entrainement</td>
-<td>- x%</td>
+<td>+ 5%</td>
 </tr>
 <tr>
 <td>Gain d'XP</td>
-<td>+ x%</td>
+<td>+ 7%</td>
 </tr>
 <tr>
 <td>Attaque du chasseur</td>
-<td>+ x%</td>
+<td>+ 22%</td>
 </tr>
 <tr>
 <td>Attaque du guerrier</td>
-<td>+ x%</td>
+<td>+ 22%</td>
 </tr>
 <tr>
-<td>Attaque du sorcier</td>
-<td>+ x%</td>
+<td>Vie du sorcier</td>
+<td>+ 22%</td>
 </tr>
 <tr>
 <td>Attaque de l'invoqueur</td>
-<td>+ x%</td>
+<td>+ 11%</td>
 </tr>
 <tr>
 <td>Vie de l'invoqueur</td>
-<td>+ x%</td>
+<td>+ 11%</td>
 </tr>
 <tr>
 <td>Génération de rage</td>
-<td>+ x%</td>
+<td>+ 10%</td>
 </tr>
 </tbody>
 </table>
@@ -319,7 +309,7 @@ Le dragon regagne instantannément 3 rage et pendant 4s il regagne 12% de sa vie
 ⚪ **Blade Storm (Tempête de Lames):** Blanc - 2 Rage<br>
 Le dragon évite tout les projectiles pendant 3s et inflige 6% de dégats aux tours aux alentours toute les secondes. Le sort a 4s de cooldown.<br>
 
-Runes: Réduisent [placeholder] et augmente l'attaque du guerrier (effet des runes légendaire et mythique)
+Runes: Réduisent le cooldown de Delight in Destruction et augmente la vie du guerrier (effet des runes légendaire et mythique)
 
 ----------------------------
 
@@ -345,7 +335,7 @@ Activer pour bloquer tout les dégats qui arrivent au dragon mais consomme 0.33 
 Le dragon est camouflé pendant 2s. Au moment de sortir du camouflage il inflige 8% de sa vie aux tours et gagne 50%
 de dégats en plus. Le sort a 2s de cooldown.<br>
 
-Runes: Réduisent [placeholder] et augmente [placeholder] (effet des runes légendaire et mythique)
+Runes: Réduisent le cooldown de Mark of Tribute et augmente la vie de l'invoqueur (effet des runes légendaire et mythique)
 
 ---------------
 
