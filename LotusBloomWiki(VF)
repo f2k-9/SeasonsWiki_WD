@@ -114,22 +114,22 @@
 
     *Vague 1 - Semaine 1*
 
-    🐉 **Asura** - Chasseur Légendaire (35.5k) 6x🗝
-    🐉 **Nucifera**- Guerrier Légendaire (35.5k) 6x🗝
-    🗡 **Suresh**- Chevaucheur Offensif (34.5k) 6x🗝
-    🛡 **Branche Boost de Base** (34.5k) 6x🗝
-    🐉 **Danav** - Guerrier Mythique (0)🔒
-    🐉 **Naja** - Invoqueur Mythique (0)🔒
-    :balloon: **Branche boost missions zepplin** (3.15k -> 100% / 6.3k -> 125%)
+    🐉 **Asura** - Chasseur Légendaire (35.5k) 6x🗝<br>
+    🐉 **Nucifera**- Guerrier Légendaire (35.5k) 6x🗝<br>
+    🗡 **Suresh**- Chevaucheur Offensif (34.5k) 6x🗝<br>
+    🛡 **Branche Boost de Base** (34.5k) 6x🗝<br>
+    🐉 **Danav** - Guerrier Mythique (0)🔒<br>
+    🐉 **Naja** - Invoqueur Mythique (0)🔒<br>
+    :balloon: **Branche boost missions zepplin** (3.15k -> 100% / 6.3k -> 125%)<br>
 
     *Vague 2 - Semaine 6*
 
-    🐉 **?** - Chasseur Légendaire (35.5k) 6x🗝
-    🛡 **?** - Chevaucheuse Défensive (34.5k) 6x🗝
+    🐉 **?** - Chasseur Légendaire (35.5k) 6x🗝<br>
+    🛡 **?** - Chevaucheuse Défensive (34.5k) 6x🗝<br>
 
     *Vague 3 - Semaine 10*
 
-    🐉 **?** - Dragon Légendaire (30k) [Festif]
+    🐉 **?** - Dragon Légendaire (30k) [Festif]<br>
 
     *Branches Spéciales*
 
@@ -170,7 +170,7 @@
 
     <img src="https://i.ibb.co/xzP0vJM/asura.png" alt="asura" border="0" height=60% width=70%>
 
-    Chasseur Légendaire
+    Chasseur Légendaire<br>
     Élément: Feu 🔥
 
     Sorts:
@@ -206,7 +206,7 @@
 
     <img src="https://i.ibb.co/PTFw90v/nocifera.png" alt="nucifera" border="0" height=60% width=70%>
 
-    Sorcier Légendaire
+    Sorcier Légendaire<br>
     Élément: Terre ⛰
 
     Sorts:
@@ -249,8 +249,8 @@
 
     <img src="https://i.ibb.co/d7CLLGS/suresh.png" alt="suresh" border="0" width=70% height=60%>
 
-    Type: Offensif
-    Élement des Fragments: Vent, Feu et Glace
+    Type: Offensif<br>
+    Élement des Fragments: Vent, Feu et Glace<br>
     Capacités: (Maximum - pas forcément tous atteignable)
 
     <table class="RidersTable">
@@ -339,7 +339,7 @@
 
     <img src="https://i.ibb.co/WHMq52T/naja.png" alt="naja" border="0" height=60% width=70%>
 
-    Invoqueur Mythique
+    Invoqueur Mythique<br>
     Élément: Terre ⛰
 
     Sorts:
@@ -353,110 +353,12 @@
     ⚪**Protector's Resolve (Résolution du Protecteur):** Blanc - 0.33 Rage/s<br>
     Activer pour bloquer tout les dégats qui arrivent au dragon mais consomme 0.33 rage/s.<br>
 
-    ⚪ **Turn the Tide (Inverser la Tendance):** Blanc - 2 Rage
+    ⚪ **Turn the Tide (Inverser la Tendance):** Blanc - 2 Rage<br>
     Le dragon est camouflé pendant 2s. Au moment de sortir du camouflage il inflige 8% de sa vie aux tours et gagne 50%
     de dégats en plus. Le sort a 2s de cooldown.<br>
 
     Runes: Réduisent [placeholder] et augmente [placeholder] (effet des runes légendaire et mythique)
 
     ---------------
-    <!--
-    <font color="#8D6E63" size="5%"><ins>**??? - ???**</ins></font>
-
-    <img src="..." alt="HunterWave2" border="0" width=70% height=50%>
-
-    Chasseur Légendaire<br>
-    Élément: ...
-
-    Sorts:
-
-    ....
-
-    Portrait: ????
-
-    <img src="..." alt="HunterWave2Portrait" border="0" height=60% width=60%>
-
-    Runes: Réduise [placeholder] et augmente [placeholder] (effet des runes légendaire et mythique)
-
-    ----------
-
-    <font color="#F1C40F" size="5%"><ins>**... - ...**</ins></font>
-
-    <img src="..." alt="RiderWave2" border="0" height=60% width=70%>
-
-    Type: Défensif
-    Élement des Fragments: Glace, Sombre et Terre
-    Capacités: (Maximum - pas forcément atteignable)
-
-    <table class="RidersTable">
-        <thead>
-            <tr>
-                <th>Capacité</th>
-                <th>Max %</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td></td>
-                <td></td>
-            </tr>
-            
-<tr>
-<td>Attaque des tours</td>
-<td>+ x%</td>
-</tr>
-<tr>
-<td>Vie es tours</td>
-<td>+ x%</td>
-</tr>
-<tr>
-<td>Production de bois</td>
-<td>+ x%</td>
-</tr>
-<tr>
-<td>Production de nourriture</td>
-<td>+ x%</td>
-</tr>
-<tr>
-<td>Capacité de bois</td>
-<td>+ 12%</td>
-</tr>
-<tr>
-<td>Vie de tour de mage rouge</td>
-<td>+ 10%</td>
-</tr>
-<tr>
-<td>Vie de tour de mage bleu</td>
-<td>+ 10%</td>
-</tr>
-
-        </tbody>
-    </table>
-
-    (NOTE: Ce chevaucheur peut aller n'importe où, il n'est lié à aucune classe)
-
-    Portraits: Mackenzie
-
-    <img src="..." alt="Rider2Portrait" border="0" height=60% width=60%>
-
-    -------------
-
-    <font color="#CFD8DC" size="5%"><ins>**??? - ???**</ins></font>
-
-    <img src="..." alt="FestivePic" border="0" height=60% width=70%>
-
-    ... Légendaire (Festif)
-    Élément: ...
-
-    Sorts:
-
-    ...
-
-    Portraits: (Pas de portraits avec les festifs)
-
-    Runes: ...
-
-    ------------
--->
-
+    
 </body>
